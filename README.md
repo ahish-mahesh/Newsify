@@ -6,8 +6,9 @@ The main aim of this project is to provide the user with a personalised news fee
 The user will also have the options to select their desired news feeds so that content from those pages will only be displayed.
 
 ## Features
+
+The following are the features of the planned project
 <ul>
-<li>The following are the features of the planned project</li>
 <li>Login system to provide user specific content.</li>
 <li>The user will be asked to choose from the available sections of news.</li>
 <li>The user will also have an additional option to select the news networks from which they desire to view the news from.</li>
